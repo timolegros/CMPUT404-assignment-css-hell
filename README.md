@@ -34,7 +34,7 @@ License/Copyright
 
 Textual content is copyright Abram Hindle, Timothee Legros (C) 2022 under the CC-BY-SA
 4.0 unported license. Attribution should be a hyperlink to the
-repository and (C) 2033 Abram Hindle, Timothee Legros visible in the text.
+repository and (C) 2022 Abram Hindle, Timothee Legros visible in the text.
 
 Code is licensed under the Apache 2.0 license.
 
